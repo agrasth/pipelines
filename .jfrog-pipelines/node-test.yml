@@ -10,7 +10,7 @@ resources:
  - name: resource_pipelines
    type: GitRepo
    configuration:
-     gitProvider: github_neha
+     gitProvider: agrasth
      path: agrasth/pipelines
      files: 
        include: ^README.md$
