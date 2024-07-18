@@ -5,8 +5,8 @@ nodePoolProperty:
     type: Bash
   - name: pipelines_c7
     type: Bash
-  - name: pipelines_c7
-    type: Bash
+  # - name: pipelines_c7
+  #   type: Bash
   - name: pipelines_w19
     type: Powershell
   - name: pipelines_kubernetes_u20
